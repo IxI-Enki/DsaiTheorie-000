@@ -21,5 +21,6 @@
   | | | 
   | **`PYTHON`**          : | [ *Advent of code 2* ]( https://github.com/IxI-Enki/DsaiUebung-008 ) | 
   | | |  
-
+  | **`JUPYTER`**          : | [ *Jupyter Notebook* ]( https://github.com/IxI-Enki/DsaiUebung-009 ) | 
+  | | |  
 </div>
