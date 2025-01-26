@@ -42,15 +42,15 @@
 
 - <p align="left"> 1. Summe aller Gehälter: </p>
   
-  $$ 2000+2200+2200+...+12000 = 77000\ EUR $$
+  \[ 2000+2200+2200+...+12000 = 77000\ EUR \]
 
 - <p align="left"> 2. Anzahl der Personen: </p>
 
-  $$ n = 20 $$
+  \[ n = 20 \]
 
 - <p align="left"> 3. Mittelwert berechnen: </p>
 
-  $$ Mittelwert = \frac{77000}2 = 3850\ EUR $$ 
+  \[ Mittelwert = \frac{77000}2 = 3850\ EUR \] 
   
 
 <div align="left">
