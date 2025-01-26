@@ -34,6 +34,10 @@
 
 <div align="right"> 
 
+  ```python {cmd=true}
+  print('Welcome to python')
+  ```
+
   | Thema                  | Link zur Übung     |  
   |  ---:                  | :----------------- |  
   | | |  
