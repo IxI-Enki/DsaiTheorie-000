@@ -80,8 +80,6 @@
 - Hier finden Sie:
   - [ ***alle** Hausübungen* ]( https://github.com/IxI-Enki/DsaiTheorie-000/blob/master/links/README.md )
   - [ ***PDFs*** ]( https://github.com/IxI-Enki/DsaiTheorie-000/tree/master/pdfs )
-  ---
- 
 
 ****
 
