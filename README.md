@@ -12,12 +12,6 @@
 
 ---
 
-<!-- 
-<sup><sub>👉🏼<sup color="red">click</sub><sub><sub color="orange">click</sub></sub></sub></sup></sub></sup>  
-<sup><sub><sup color="silver">click</sub><sub><sub color="grey">click</sub></sub></sub>👉🏼</sup></sub></sup>
--->
-
-<!-- <sub><sub>✔️</sub></sub> -->   
 ##  ●  Ⅰ ) <p align="center">[ <sup><sub><sup> click </sub><sub><sub>click</sub></sub></sub>👉🏼</sup></sub></sup>  Prädikatenlogik  ](  )</p> 
 <div align="right">
   
@@ -30,13 +24,12 @@
   | | |  
   | **`PREDICATE LOGIC`** : | [ *Sprache in Aussagenlogik übersetzen* ]( https://github.com/IxI-Enki/DSAIUebung-004 ) |  
   | | |  
-  
-#### <p align="right"> [ 1 ](   ) </p>
+  <!--#### <p align="right"> [ 1 ](   ) </p>-->
 
 </div> 
 
-<!-- <sub><sub>✔️</sub></sub> -->
-##  ● Ⅱ ) <p align="center">[ <sup><sub><sup>click</sub><sub><sub>click</sub></sub></sub>👉🏼</sup></sub></sup>  2  ](   ) </p>
+---
+##  ● Ⅱ ) <p align="center">[ <sup><sub><sup>click</sub><sub><sub>click</sub></sub></sub>👉🏼</sup></sub></sup>  Python  ](   ) </p>
 
 <div align="right"> 
 
@@ -45,19 +38,18 @@
   | | |  
   | **`PYTHON`** : | [ *Fizz Buzz* ]( https://github.com/IxI-Enki/DSAIUebung-006 ) | 
   | | | 
-  | **`PYTHON`** : | [ *Advent of code 1* ](  ) | 
+  | **`PYTHON`** : | [ *Advent of code 1* ]( https://github.com/IxI-Enki/DsaiUebung-007 ) | 
   | | | 
-  | **`PYTHON`** : | [ *Advent of code* ](  ) | 
+  | **`PYTHON`** : | [ *Advent of code 2* ]( https://github.com/IxI-Enki/DsaiUebung-008 ) | 
   | | | 
+  <!--#### <p align="right"> [ a ]( ) </p>-->
+
 </div>
 
-#### <p align="right"> [ a ]( ) </p>
-
-<!-- <sub><sub>✔️</sub></sub>  -->  
-## ●  Ⅲ ) <p align="center">[ <sup><sub><sup>click</sub><sub><sub>click</sub></sub></sub>👉🏼</sup></sub></sup>  3  ](  d)</p> 
-
-<!--****
 ---
+## ●  Ⅲ ) <p align="center">[ <sup><sub><sup>click</sub><sub><sub>click</sub></sub></sub>👉🏼</sup></sub></sup>  Statistik  ](  )</p> 
+
+<!-- ---
 ##  ●  Ⅳ ) <p align="center">[ <sup><sub><sup>click</sub><sub><sub>click</sub></sub></sub>👉🏼</sup></sub></sup>  4  ](   )</p> 
 #### <p align="right"> [ a ]( ) </p>
 #### <p align="right"> [ b ](   ) </p>
@@ -68,13 +60,12 @@
 ---
 ## ●  Ⅵ ) <p align="center">[ <sup><sub><sup>click</sub><sub><sub>click</sub></sub></sub>👉🏼</sup></sub></sup>  6  ](   )</p> 
  
-   
 <div align="right">
  
-</div>
--->
+</div>-->
+
 ---
- 
+
 - Hier finden Sie:
   - [ ***alle** Hausübungen* ]( )
   - [ ***PDFs*** ]( )
