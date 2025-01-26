@@ -12,7 +12,7 @@
 
 ---
 
-##  ●  Ⅰ ) <p align="center">[ <sup><sub><sup> click </sub><sub><sub>click</sub></sub></sub>👉🏼</sup></sub></sup>  Prädikatenlogik  ](  )</p> 
+##  ●  Ⅰ ) <p align="center">[ <sup><sub><sup> click </sub><sub><sub>click</sub></sub></sub>👉🏼</sup></sub></sup>  Prädikatenlogik  ]( https://github.com/IxI-Enki/DsaiTheorie-000/tree/master/predicate-logic )</p> 
 <div align="right">
   
   | Thema                  | Link zur Übung     |  
@@ -29,7 +29,7 @@
 </div> 
 
 ---
-##  ● Ⅱ ) <p align="center">[ <sup><sub><sup>click</sub><sub><sub>click</sub></sub></sub>👉🏼</sup></sub></sup>  Python  ](   ) </p>
+##  ● Ⅱ ) <p align="center">[ <sup><sub><sup>click</sub><sub><sub>click</sub></sub></sub>👉🏼</sup></sub></sup>  Python  ]( https://github.com/IxI-Enki/DsaiTheorie-000/tree/master/python ) </p>
 
 <div align="right"> 
 
@@ -47,7 +47,7 @@
 </div>
 
 ---
-## ●  Ⅲ ) <p align="center">[ <sup><sub><sup>click</sub><sub><sub>click</sub></sub></sub>👉🏼</sup></sub></sup>  Statistik  ](  )</p> 
+## ●  Ⅲ ) <p align="center">[ <sup><sub><sup>click</sub><sub><sub>click</sub></sub></sub>👉🏼</sup></sub></sup>  Statistik  ]( https://github.com/IxI-Enki/DsaiTheorie-000/tree/master/statistics )</p> 
 
 <!-- ---
 ##  ●  Ⅳ ) <p align="center">[ <sup><sub><sup>click</sub><sub><sub>click</sub></sub></sub>👉🏼</sup></sub></sup>  4  ](   )</p> 
@@ -70,9 +70,8 @@
   - [ ***alle** Hausübungen* ]( https://github.com/IxI-Enki/DsaiTheorie-000/blob/master/links/README.md )
   - [ ***PDFs*** ]( https://github.com/IxI-Enki/DsaiTheorie-000/tree/master/pdfs )
   ---
-  -  *--weitere Quellen--* ]( )
  
-
+ 
 ****
 
 
