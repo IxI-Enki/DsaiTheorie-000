@@ -49,6 +49,17 @@
 ---
 ## ●  Ⅲ ) <p align="center">[ <sup><sub><sup>click</sub><sub><sub>click</sub></sub></sub>👉🏼</sup></sub></sup>  Statistik  ]( https://github.com/IxI-Enki/DsaiTheorie-000/tree/master/statistics )</p> 
 
+<div align="right"> 
+
+  | Thema                  | Link zur Übung     |  
+  |  ---:                  | :----------------- |  
+  | | |  
+  | **`JUPYTER`**          : | [ *Jupyter Notebook* ]( https://github.com/IxI-Enki/DsaiUebung-009 ) | 
+  | | | 
+  <!--#### <p align="right"> [ a ]( ) </p>-->
+
+</div>
+
 <!-- ---
 ##  ●  Ⅳ ) <p align="center">[ <sup><sub><sup>click</sub><sub><sub>click</sub></sub></sub>👉🏼</sup></sub></sup>  4  ](   )</p> 
 #### <p align="right"> [ a ]( ) </p>
@@ -71,7 +82,7 @@
   - [ ***PDFs*** ]( https://github.com/IxI-Enki/DsaiTheorie-000/tree/master/pdfs )
   ---
  
- 
+
 ****
 
 
