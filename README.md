@@ -68,7 +68,7 @@
 
 - Hier finden Sie:
   - [ ***alle** Hausübungen* ]( )
-  - [ ***PDFs*** ]( )
+  - [ ***PDFs*** ]( https://github.com/IxI-Enki/DsaiTheorie-000/tree/master/pdfs )
   ---
   -  *--weitere Quellen--* ]( )
  
