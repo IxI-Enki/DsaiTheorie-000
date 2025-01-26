@@ -18,57 +18,68 @@
 -->
 
 <!-- <sub><sub>✔️</sub></sub> -->   
-##  <sub><sup color="green">●</sup></sub>  Ⅰ ) <p align="center">[ <sup><sub><sup> click </sub><sub><sub>click</sub></sub></sub>👉🏼</sup></sub></sup>  1  ](  )</p> 
-#### <p align="right"> [ 1 ](   ) </p>
- 
-<!-- <sub><sub>✔️</sub></sub> -->
-##  <sub><sup color="lime">●</sup></sub> Ⅱ ) <p align="center">[ <sup><sub><sup>click</sub><sub><sub>click</sub></sub></sub>👉🏼</sup></sub></sup>  2  ](   ) </p>
-#### <p align="right"> [ a ]( ) </p>
- 
-<!-- <sub><sub>✔️</sub></sub>  -->  
-##  <sub><sup color="cyan">●</sup></sub> Ⅲ ) <p align="center">[ <sup><sub><sup>click</sub><sub><sub>click</sub></sub></sub>👉🏼</sup></sub></sup>  3  ](  d)</p> 
-
----
-<!-- <sub><sub>✔️</sub></sub>  -->  
-##  <sub><sup color="cyan">●</sup></sub> Ⅳ ) <p align="center">[ <sup><sub><sup>click</sub><sub><sub>click</sub></sub></sub>👉🏼</sup></sub></sup>  4  ](   )</p> 
-#### <p align="right"> [ a ]( ) </p>
-#### <p align="right"> [ b ](   ) </p>
-
----
-<!-- <sub><sub>✔️</sub></sub>  -->  
-##  <sub><sup color="cyan">●</sup></sub> Ⅴ ) <p align="center">[ <sup><sub><sup>click</sub><sub><sub>click</sub></sub></sub>👉🏼</sup></sub></sup>  5  ]( a )</p> 
-
----
-<!-- <sub><sub>✔️</sub></sub>  -->  
-##  <sub><sup color="cyan">●</sup></sub> Ⅵ ) <p align="center">[ <sup><sub><sup>click</sub><sub><sub>click</sub></sub></sub>👉🏼</sup></sub></sup>  6  ](   )</p> 
-
-### <div align="center"> 
-
-   $\color{lime}{XXX -}$ [ t ](   ) </div>
-
-   
+##  ●  Ⅰ ) <p align="center">[ <sup><sub><sup> click </sub><sub><sub>click</sub></sub></sub>👉🏼</sup></sub></sup>  Prädikatenlogik  ](  )</p> 
 <div align="right">
   
   | Thema                  | Link zur Übung     |  
   |  ---:                  | :----------------- |  
   | | |  
-  | 1 -  :  | [   ]( ) |  
+  | **`PREDICATE LOGIC`** : | [ *Wahrheits-Tabellen verwenden* ]( https://github.com/IxI-Enki/DSAIUebung-002 ) |
   | | |  
-  | 2 -  : | [  ]( ) |  
+  | **`PREDICATE LOGIC`** : | [ *Mit Karnaugh-Veitch Method* ]( https://github.com/IxI-Enki/DSAIUebung-003 ) |  
   | | |  
-  | 3 -  : | [   ]( ) |  
+  | **`PREDICATE LOGIC`** : | [ *Sprache in Aussagenlogik übersetzen* ]( https://github.com/IxI-Enki/DSAIUebung-004 ) |  
   | | |  
+  
+#### <p align="right"> [ 1 ](   ) </p>
 
+</div> 
+
+<!-- <sub><sub>✔️</sub></sub> -->
+##  ● Ⅱ ) <p align="center">[ <sup><sub><sup>click</sub><sub><sub>click</sub></sub></sub>👉🏼</sup></sub></sup>  2  ](   ) </p>
+
+<div align="right"> 
+
+  | Thema                  | Link zur Übung     |  
+  |  ---:                  | :----------------- |  
+  | | |  
+  | **`PYTHON`** : | [ *Fizz Buzz* ]( https://github.com/IxI-Enki/DSAIUebung-006 ) | 
+  | | | 
+  | **`PYTHON`** : | [ *Advent of code 1* ](  ) | 
+  | | | 
+  | **`PYTHON`** : | [ *Advent of code* ](  ) | 
+  | | | 
 </div>
 
+#### <p align="right"> [ a ]( ) </p>
+
+<!-- <sub><sub>✔️</sub></sub>  -->  
+## ●  Ⅲ ) <p align="center">[ <sup><sub><sup>click</sub><sub><sub>click</sub></sub></sub>👉🏼</sup></sub></sup>  3  ](  d)</p> 
+
+<!--****
+---
+##  ●  Ⅳ ) <p align="center">[ <sup><sub><sup>click</sub><sub><sub>click</sub></sub></sub>👉🏼</sup></sub></sup>  4  ](   )</p> 
+#### <p align="right"> [ a ]( ) </p>
+#### <p align="right"> [ b ](   ) </p>
+
+---
+##  ●  Ⅴ ) <p align="center">[ <sup><sub><sup>click</sub><sub><sub>click</sub></sub></sub>👉🏼</sup></sub></sup>  5  ]( a )</p> 
+
+---
+## ●  Ⅵ ) <p align="center">[ <sup><sub><sup>click</sub><sub><sub>click</sub></sub></sub>👉🏼</sup></sub></sup>  6  ](   )</p> 
+ 
+   
+<div align="right">
+ 
+</div>
+-->
 ---
  
 - Hier finden Sie:
-  - [   ]( )
-  - [   ]( )
-  - [   ]( )
+  - [ ***alle** Hausübungen* ]( )
+  - [ ***PDFs*** ]( )
   ---
-  - [   ]( )
+  -  *--weitere Quellen--* ]( )
  
 
 ****
