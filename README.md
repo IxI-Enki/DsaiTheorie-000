@@ -29,6 +29,7 @@
 </div> 
 
 ---
+
 ##  ● Ⅱ ) <p align="center">[ <sup><sub><sup>click</sub><sub><sub>click</sub></sub></sub>👉🏼</sup></sub></sup>  Python  ]( https://github.com/IxI-Enki/DsaiTheorie-000/tree/master/python ) </p>
 
 <div align="right"> 
@@ -46,7 +47,11 @@
 
 </div>
 
+
+<br>
+
 ---
+
 ## ●  Ⅲ ) <p align="center">[ <sup><sub><sup>click</sub><sub><sub>click</sub></sub></sub>👉🏼</sup></sub></sup>  Statistik  ]( https://github.com/IxI-Enki/DsaiTheorie-000/tree/master/statistics )</p> 
 
 <div align="right"> 
