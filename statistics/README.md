@@ -116,7 +116,7 @@ $$ Spannweite  = 12\ 000 - 2\ 000 = \underline{10\ 000\ EUR} $$
 - ### Sie misst die **durchschnittliche quadratische Abweichung** vom Mittelwert.
 
 
-  $$ \underline{Varianz = \frac{1}n \sum_{i=1}^{n}{(x_i-\bar{x})^2}} $$
+  $$\underline{Varianz = \frac{1}n \sum_{i=1}^{n}{(x_i-\bar{x})^2}}$$
 
   <br>
 
@@ -145,7 +145,7 @@ $$ Spannweite  = 12\ 000 - 2\ 000 = \underline{10\ 000\ EUR} $$
     > - Je größer die Standardabweichung, desto weiter liegen die Werte   auseinander.  
     > - Eine kleine Standardabweichung bedeutet, dass die Werte eng um den  Mittelwert gruppiert sind.  
 
-  $$ \underline{Standardabweichung = \sqrt{\frac{1}n \sum_{i=1}^{n}{(x_i-\bar{x})^2}}} $$
+  $$\underline{Standardabweichung = \sqrt{\frac{1}n \sum_{i=1}^{n}{(x_i-\bar{x})^2}}}$$
 
 ---
 
