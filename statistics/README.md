@@ -38,20 +38,33 @@
   
   $$ n = Anzahl\ der\ Personen\ im\ Datensatz $$
 
+</div>
+
 ---
 
-- <p align="left"> 1. Summe aller Gehälter: </p>
+ 1. Summe aller Gehälter:  
   
-  \[ 2000+2200+2200+...+12000 = 77000\ EUR \]
+<div align="center">
 
-- <p align="left"> 2. Anzahl der Personen: </p>
+  $$ 2000+2200+2200+...+12000 = 77000\ EUR $$
 
-  \[ n = 20 \]
+</div>
 
-- <p align="left"> 3. Mittelwert berechnen: </p>
+ 2. Anzahl der Personen:  
 
-  \[ Mittelwert = \frac{77000}2 = 3850\ EUR \] 
+<div align="center">
+
+  $$ n = 20 $$
+
+</div>
+
+  1. Mittelwert berechnen: 
+
+<div align="center">
+
+  $$ Mittelwert = \frac{77000}2 = 3850\ EUR $$
   
+</div>
 
 <div align="left">
 
