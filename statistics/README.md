@@ -27,15 +27,15 @@
 - ### Er zeigt den durchschnittlichen Verdienst in diesem Unternehmen.  
   > Der Mittelwert wird stark von Ausreißern beeinflusst.
 
-    $$ \bold{\underline{Mittelwert = \frac{\sum x_i}n}} $$
+    $$ \underline{Mittelwert = \frac{\sum x_i}n} $$
  
-    $$ \scriptsize{\sum x_i = \bold{Summe\ aller\ Gehälter}\ \ \ n = \bold{Anzahl\ der\ Personen\ im\ Datensatz}} $$
+    $$ \scriptsize{\sum x_i = Summe\ aller\ Gehälter}\ \ \ n = Anzahl\ der\ Personen\ im\ Datensatz $$
 
   - ### *1. )* Summe aller Gehälter: $\ \ \scriptsize{ 2000+2200+...+12000 = 77000\ EUR} $
 
   - ### *2. )* Anzahl der Personen:  $\ \ \scriptsize n = 20 $
 
-  - ### *3. )* Mittelwert berechnen: $\ \ \bold{Mittelwert} = \frac{77000}2 = \underline{3850\ EUR} $
+  - ### *3. )* Mittelwert berechnen: $\ \ Mittelwert = \frac{77000}2 = \underline{3850\ EUR} $
 
   <br>
 
@@ -58,7 +58,7 @@
   
 <br>
 
-  $$ \bold{Median} = \frac{3000+3500}2 = \underline{3250\ EUR} $$ 
+  $$  Median = \frac{3000+3500}2 = \underline{3250\ EUR} $$ 
 
 <br>
 
@@ -80,7 +80,7 @@
   
   <br>
  
-    $$ \bold{\underline{Der\ Wert\ 2500\ EUR\ kommt\ 2\ mal\ vor.}} $$
+    $$ \underline{Der\ Wert\ 2500\ EUR\ kommt\ 2\ mal\ vor.} $$
  
   <br>
 
@@ -99,15 +99,15 @@
   > *Die Spannweite ist ein sehr einfaches **Maß für die Streuung**.*
 
 
-$$ \bold{\underline{Spannweite = max_{(x_i)} - min_{(x_i)}}} $$
+$$ \underline{Spannweite = max_{(x_i)} - min_{(x_i)}} $$
 $$ max_{(x_i)} = der\ größte\ Wert\ im\ Datensatz $$  
 
 $$ min_{(x_i)} = der\ kleinste\ Wert\ im\ Datensatz $$
 
-$$ \bold{Maximalwert}\ (höchstes\ Gehalt)  = \underline{12\ 000\ EUR} $$
+$$ Maximalwert \ (höchstes\ Gehalt)  = \underline{12\ 000\ EUR} $$
 
-$$ \bold{Minimalwert}\ (niedrigstes\ Gehalt) = \underline{2\ 000\ EUR} $$
-$$ \bold{Spannweite} = 12\ 000 - 2\ 000 = \underline{10\ 000\ EUR} $$
+$$ Minimalwert \ (niedrigstes\ Gehalt) = \underline{2\ 000\ EUR} $$
+$$ Spannweite  = 12\ 000 - 2\ 000 = \underline{10\ 000\ EUR} $$
 
 ---
 
@@ -116,7 +116,7 @@ $$ \bold{Spannweite} = 12\ 000 - 2\ 000 = \underline{10\ 000\ EUR} $$
 - ### Sie misst die **durchschnittliche quadratische Abweichung** vom Mittelwert.
 
 
-  $$ \bold{\underline{Varianz = \frac{1}n \sum_{i=1}^{n}{(x_i-\bar{x})^2}}} $$
+  $$ \underline{Varianz = \frac{1}n \sum_{i=1}^{n}{(x_i-\bar{x})^2}} $$
 
   <br>
 
@@ -145,7 +145,7 @@ $$ \bold{Spannweite} = 12\ 000 - 2\ 000 = \underline{10\ 000\ EUR} $$
     > - Je größer die Standardabweichung, desto weiter liegen die Werte   auseinander.  
     > - Eine kleine Standardabweichung bedeutet, dass die Werte eng um den  Mittelwert gruppiert sind.  
 
-  $$ \bold{\underline{Standardabweichung = \sqrt{\frac{1}n \sum_{i=1}^{n}{(x_i-\bar{x})^2}}}} $$
+  $$ \underline{Standardabweichung = \sqrt{\frac{1}n \sum_{i=1}^{n}{(x_i-\bar{x})^2}}} $$
 
 ---
 
@@ -167,7 +167,7 @@ $$ \bold{Spannweite} = 12\ 000 - 2\ 000 = \underline{10\ 000\ EUR} $$
 
  <div align="center">
 
-   <img src="../img/chart.svg" alt="chart" width=550px height=340px>
+   <img src="../img/chart.svg" alt="chart" width=550px height=320px>
 
   </div>
 
