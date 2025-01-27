@@ -27,9 +27,9 @@
 - ### Er zeigt den durchschnittlichen Verdienst in diesem Unternehmen.  
   > Der Mittelwert wird stark von Ausreißern beeinflusst.
 
-    $$ \underline{Mittelwert = \frac{\sum x_i}n} $$
+    $$\underline{Mittelwert = \frac{\sum x_i}n}$$
  
-    $$ \scriptsize{\sum x_i = Summe\ aller\ Gehälter}\ \ \ n = Anzahl\ der\ Personen\ im\ Datensatz $$
+    $$\scriptsize{\sum x_i = Summe\ aller\ Gehälter}\ \ \ n = Anzahl\ der\ Personen\ im\ Datensatz$$
 
   - ### *1. )* Summe aller Gehälter: $\ \ \scriptsize{ 2000+2200+...+12000 = 77000\ EUR} $
 
@@ -58,7 +58,7 @@
   
 <br>
 
-  $$  Median = \frac{3000+3500}2 = \underline{3250\ EUR} $$ 
+  $$Median = \frac{3000+3500}2 = \underline{3250\ EUR}$$ 
 
 <br>
 
@@ -80,7 +80,7 @@
   
   <br>
  
-    $$ \underline{Der\ Wert\ 2500\ EUR\ kommt\ 2\ mal\ vor.} $$
+    $$\underline{Der\ Wert\ 2500\ EUR\ kommt\ 2\ mal\ vor.}$$
  
   <br>
 
